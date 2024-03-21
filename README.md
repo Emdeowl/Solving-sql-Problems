@@ -5,6 +5,7 @@ SQL  코드 카타
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 620. Not Boring Movies
 
 ####  Write a solution to report the movies with an odd-numbered ID and a description that is not "boring"
@@ -49,3 +50,8 @@ join 조건절인 ON에 걸면 해결 -완-
 ## Write an SQL query that reports the average experience years of all the employees for each project, rounded to 2 digits.
 ## Return the result table in any order.
 >>>>>>> origin/93번
+=======
+
+## Write an SQL query that reports the average experience years of all the employees for each project, rounded to 2 digits.
+## Return the result table in any order.
+>>>>>>> 93번
