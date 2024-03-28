@@ -14,3 +14,4 @@ order by
     id
 
      -- https://leetcode.com/problems/exchange-seats/
+-- lead와 같은 함수를 써야하는 줄 알았지만, 현실은 아니였다. 
