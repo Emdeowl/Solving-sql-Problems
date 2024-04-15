@@ -3,12 +3,12 @@ https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isF
 */
 
 select
-    round(power(
-                        power(
-                                    (a- b) , 2) + 
-                        power(
-                                    (c-d) , 2)
-                        ,0.5)
+round(power(
+            power(
+                        (a- b) , 2) + 
+            power(
+                        (c-d) , 2)
+            ,0.5)
           , 4)
 from
         (select
